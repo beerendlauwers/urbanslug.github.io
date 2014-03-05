@@ -18,8 +18,10 @@ Anyhoo the real matter here is that there was a problem with the source in Threa
 
 
 The assumption is that you have all the dependencies met.
+Get ThreadScope source files from: [ThreadScope source]
 
 Here is the patch: {% gist 9367418 threadscope.diff %}
+
 
 If you have issues applying the patch read on it here: [How to apply a patch in haste.] 
 
@@ -30,3 +32,4 @@ The issue with the patch there is that it misses the tiny change GUI/Main.hs
 [gist to threadscope errors]: https://gist.github.com/urbanslug/9365829
 [source of diff]: http://trac.haskell.org/ThreadScope/ticket/32
 [How to apply a patch in haste.]({% post_url 2014-03-05-how-to-apply-a-patch-in-haste %})
+[ThreadScope source]: http://hackage.haskell.org/package/threadscope
