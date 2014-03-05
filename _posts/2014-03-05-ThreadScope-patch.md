@@ -29,4 +29,4 @@ The issue with the patch there is that it misses the tiny change GUI/Main.hs
 
 [gist to threadscope errors]: https://gist.github.com/urbanslug/9365829
 [source of diff]: http://trac.haskell.org/ThreadScope/ticket/32
-[How to apply a patch in haste.]({% post_url 2014-03-05-how-to-apply-a-patch-in-haste %}
+[How to apply a patch in haste.]({% post_url 2014-03-05-how-to-apply-a-patch-in-haste %})
