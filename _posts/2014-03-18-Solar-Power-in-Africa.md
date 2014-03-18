@@ -16,9 +16,9 @@ If you read that wikipedia article and ignored the rest of this that would be ok
 
 This may sound loke a question a naive person would ask but why hasn't Africa acted upon this in a major way? I wish African leaders would debate along these lines and actually do something about it.
 
-**This post is not about about getting people to know this and talk about it.**
+**This post is about getting people to learn about Solar Power in Africa and talk about it.**
 
-Oil industry is big because it is an energy source, right? So this is like knowing that we have a better renewable type of oil in our land but doing nothing about it. I do admit that the cost of the undertaking would be huge but that shouldn't stop us. In fact I there is this line I read in the article:
+Oil industry is big because it is an energy source, right? Compare this to knowing that we have a better renewable type of oil in our land but doing nothing about it. I do admit that the cost of the undertaking would be huge but that shouldn't stop us. In fact I there is this line I read in the article:
     Many African countries receive on average 325 days per year of bright sunlight. This gives solar power the potential to bring energy to virtually any location in Africa without the need for **expensive** large scale grid level infrastructural developments.
 
 So we have even hours of daylight and darkness already working in our favour, right?
@@ -42,7 +42,12 @@ So Europe saw this and decided to act upon it. I sought figures on Europe's powe
 
 Ok so let me get this right. We could've almost matched Africa's power consumption by just doing what Europe did? This is obviously HUGE! albeit from a renewable and clean source. 
 
-So I have a line graph for this comparing `africa power consumption, europe power consumption,  15% of europe power consumption, africa power consumption+(15% of europe power consumption)`
+So I have a line graph for this comparing:
+
+    - africa power consumption
+    - europe power consumption
+    - 15% of europe power consumption
+    - africa power consumption+(15% of europe power consumption)
 
 See it as a graph of where we are, where Europe is and where we would be if we gave minimal shit!
 
@@ -76,13 +81,16 @@ Another wikipedia article shows the continent's potential with solar power [Sola
 *It's a shame that Africa's subsection is only one paragraph instead of being broken down to info on solar power in individual african nations. To demonstrate just how short that paragraph is I shall paste it here.*
 
     On average, many African countries receive up to 325 days of sunlight per year.
-    This gives solar power the potential to bring energy to virtually any location in Africa
-    without the need for expensive large scale grid level infrastructural developments.
+    This gives solar power the potential to bring energy to virtually any location 
+    in Africa  without the need for expensive large scale grid level
+    infrastructural developments.
 
-    The distribution of solar resources across Africa is fairly uniform, with more than 80
-     percent of the African landscape receiving almost 2000 kW·h per square meter per year.
-    A recent study indicates that a solar generating facility covering just 0.3% of the area
-     comprising North Africa could supply all of the energy required by the European Union
+    The distribution of solar resources across Africa is fairly uniform, with more than
+    80 percent of the African landscape receiving almost 2000 kW·h per square meter 
+    per year.
+    A recent study indicates that a solar generating facility covering just 0.3% of
+    the area comprising North Africa could supply all of the energy required by 
+    the European Union
 
 I know this might be an issue of solar power developments not having been documented, but why? It is obviously just not a priority. We are good at documenting politics so we have the ability. 
 
