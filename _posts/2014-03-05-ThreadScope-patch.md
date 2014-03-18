@@ -11,7 +11,8 @@ After having installed the dependencies I had problems with building ThreadScope
 
 A few tips on haskell on archlinux: 
 
-     Don't use Pacman, AUR or another package manager to install anything other than: ghc and cabal.
+     Don't use Pacman, AUR or another package manager to install anything other than:
+     ghc and cabal.
      For everything else use cabal install i.e `cabal install package_name`
 
 Anyhoo the real matter here is that there was a problem with the source in ThreadScope.
