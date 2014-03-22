@@ -27,6 +27,8 @@ It's sad. It's fucking wrong.
 
 
 Something else:
+
+
 ![Obamas_looking_at_banana_racist.png](/img/Content/Racism/Obamas_looking_at_banana_racist.png "Obamas_racist_picture")
 
 Former Russian figure skater Irina Rodnina posted a photo of Mr and Mrs Obama looking at someone who was holding up a banana, which has racist implications.
