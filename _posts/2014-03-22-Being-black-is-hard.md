@@ -9,6 +9,8 @@ category: Life Racism
 ---------
 
 I wrote this because this was PUBLISHED in a Belgian paper (De Morgen).
+
+
 ![Obamas_racist_picture](/img/Content/Racism/Obamas_racist_picture.png "Obamas_racist_picture")
 
 This photograpgh is proof enough that proving your worth while being black no matter what or who you are is not easy.
