@@ -53,7 +53,7 @@ See it as a graph of where we are, where Europe is and where we would be if we g
 
 For a line graph see: [graph]
 
-![graph image](/img/graphs/Comparison\ of\ Africa\ Europe\ power\ consumption.png "stuff")
+![graph image](/img/Content/Graphs/Comparison\ of\ Africa\ Europe\ power\ consumption.png "Solar power comparison bar graph")
 
 *Note that 15% of Europes power consumption is just about on the same line as Africa's power consumption so it's hard to tell apart.*
 
