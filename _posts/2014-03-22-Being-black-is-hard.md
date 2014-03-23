@@ -45,12 +45,12 @@ Read the full article here: [Article: Racist Former Russian Figure Skater]
 ---------------
 
 I give Obama a lot more respect now than I did before.
-I really now see what he has to put up with. It is a shame that such had to happen for me to see that he really is worth more than what we give him credit for.
+I can only imagine what he has to put up with. It's a shame that such had to happen for me to see that he really is worth more than what we give him credit for.
 He surely puts on a brave front. I can only thank him for what he has done for black people in showing that they too can do something worthwhile just like anybody else.
 
 I believe that nobody is worth more than the other or worth more than anything else. Whether because of your species, you race, morphology, education, money  et cetera. All life is sacred.
 
-I wish African would stop opressing each other and for once help each other rise from the poverty.
+I wish Africans would stop opressing each other and for once help each other ,and consequently Africa, rise from poverty. Since it seems to be the only place black people can live in comfort.
 
 I wish more and more Africans would know this when lynching gay people. "Some people think that you deserve to die (or at least deserve less) because of what you are and what you look like."
 
