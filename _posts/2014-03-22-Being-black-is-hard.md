@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Being black is hard."
+title: "Being black can be hard."
 date: 2014-03-22 22:05:35
 category: Life Racism
 ---

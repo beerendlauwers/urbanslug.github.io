@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solar Power in Africa"
+title: "Solar Power in Africa."
 date: 2014-03-18 09:24:05
 categories: Energy
 ---

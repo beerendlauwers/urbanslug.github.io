@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to apply a patch in haste"
+title:  "How to apply a patch in haste."
 date:   2014-03-05 19:14:59
 categories: Patch
 ---

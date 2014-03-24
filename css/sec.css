@@ -1,3 +1,48 @@
+@font-face {
+  font-family: 'Oxygen';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Oxygen Light'), local('Oxygen-Light'), url(../fonts/Oxygen-Light.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oxygen';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Oxygen'), local('Oxygen-Regular'), url(../fonts/Oxygen-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oxygen';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Oxygen Bold'), local('Oxygen-Bold'), url(../fonts/Oxygen-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oxygen Mono';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Oxygen Mono'), local('OxygenMono-Regular'), url(/fonts/OxygenMono-Regular.ttf) format('truetype');
+}
+
+
+
 body {
-background: #ddd;
+background: #e5e5e5;
+font-family: 'Oxygen', sans-serif;
+}
+
+
+.post pre {
+  background-color: #fff;
+  width: 110%;
+}
+
+
+.post code {
+  background-color: #fff;
+  font-family: 'Oxygen Mono';
+  font-size: 85%;
+}
+
+.post pre code {
+  font-size: 115%;
 }

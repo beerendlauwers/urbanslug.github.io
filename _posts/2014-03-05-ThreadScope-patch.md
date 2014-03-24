@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ThreadScope patch"
+title:  "ThreadScope patch."
 date:   2014-03-05 18:36:59
 categories: Haskell ThreadScope Patch
 ---
@@ -24,7 +24,7 @@ Get ThreadScope source files from: [ThreadScope source]
 Here is the patch: {% gist 9367418 threadscope.diff %}
 
 
-If you have issues applying the patch read on it here: [How to apply a patch in haste.]({% post_url 2014-03-05-how-to-apply-a-patch-in-haste %})
+If you have issues applying the patch read on it here: [How to apply a patch in haste.]({% post_url 2014-03-05-How-to-apply-a-patch-in-haste %})
 
 
 99% of it is really thanks to [source of diff] where you can see the patch was submitted by Bob Ippolito as an attachment.
