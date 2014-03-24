@@ -50,7 +50,7 @@ He surely puts on a brave front. I can only thank him for what he has done for b
 
 I believe that nobody is worth more than the other or worth more than anything else. Whether because of your species, you race, morphology, education, money  et cetera. All life is sacred.
 
-I wish Africans would stop opressing each other and for once help each other ,and consequently Africa, rise from poverty. Since it seems to be the only place black people can live in comfort.
+I wish Africans would stop opressing each other and for once help each other and consequently Africa, rise from poverty. Since it seems to be the only place black people can live in comfort.
 
 I wish more and more Africans would know this when lynching gay people. "Some people think that you deserve to die (or at least deserve less) because of what you are and what you look like."
 
