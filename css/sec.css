@@ -37,7 +37,7 @@ font-family: 'Oxygen', sans-serif;
 
 
 .post pre {
-  width: 110%;
+  background: #e5e5e5;
 }
 
 
@@ -48,4 +48,5 @@ font-family: 'Oxygen', sans-serif;
 
 .post pre code {
   font-size: 115%;
+  background: #eef;
 }
