@@ -1,13 +1,13 @@
 @font-face {
   font-family: 'Oxygen';
   font-style: normal;
-  font-weight: 100;
+  font-weight: 300;
   src: local('Oxygen Light'), local('Oxygen-Light'), url(../fonts/Oxygen-Light.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Oxygen';
   font-style: normal;
-  font-weight: 200;
+  font-weight: 400;
   src: local('Oxygen'), local('Oxygen-Regular'), url(../fonts/Oxygen-Regular.ttf) format('truetype');
 }
 @font-face {
@@ -19,7 +19,7 @@
 @font-face {
   font-family: 'Oxygen Mono';
   font-style: normal;
-  font-weight: 200;
+  font-weight: 400;
   src: local('Oxygen Mono'), local('OxygenMono-Regular'), url(/fonts/OxygenMono-Regular.ttf) format('truetype');
 }
 
