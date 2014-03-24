@@ -37,13 +37,11 @@ font-family: 'Oxygen', sans-serif;
 
 
 .post pre {
-  background-color: #fff;
   width: 110%;
 }
 
 
 .post code {
-  background-color: #fff;
   font-family: 'Oxygen Mono';
   font-size: 85%;
 }
