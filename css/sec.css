@@ -44,3 +44,9 @@ font-family: 'Oxygen', sans-serif;
   font-size: 100%;
   background: #eef;
 }
+
+.site {
+  line-height: 2em;
+}
+
+p { margin: 2.5em 0; }
