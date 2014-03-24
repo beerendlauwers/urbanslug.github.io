@@ -27,7 +27,7 @@ If Africa were able to control just it's energy sources let alone the worlds it 
 
 The rest of the paragraph goes on to read: `The Desertec project is a proposal to provide 15% of Europe's energy from the desert.`
 
-Moreover A recent study indicates that a solar generating facility covering just 0.3% of the area comprising North Africa could supply all of the energy required by the European Union.
+Moreover, a recent study indicates that a solar generating facility covering just 0.3% of the area comprising North Africa could supply all of the energy required by the European Union.
 
 So Europe saw this and decided to act upon it. I sought figures on Europe's power consumption to compare with Africa's from wolfram alpha.
 
