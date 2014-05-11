@@ -7,7 +7,7 @@ categories: Patch
 
 So you really should read more on this but of you are in a hurry.
 
-You should get your source then copy the .patch or .diff into the root of the source file. Then run `git apply patch_name`. If you don't have git installed you can use the patch command. How to use it is in teh first link below.
+You should get your source then copy the .patch or .diff into the root of the source file. Then run `git apply patch_name`. If you don't have git installed you can use the patch command. How to use it is in the first link below.
 
 
 Other places you can read on the same including how to make one include:

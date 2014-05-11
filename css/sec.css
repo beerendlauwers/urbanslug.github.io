@@ -23,6 +23,7 @@
   src: local('Oxygen Mono'), local('OxygenMono-Regular'), url(/fonts/OxygenMono-Regular.ttf) format('truetype');
 }
 
+ 
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 150%; 
@@ -49,7 +50,6 @@ body {
   width: 800px;
 }
 
-p { margin: 2.5em 0; }
 
 /* Regulate width based on screen size.*/
 @media only screen 
