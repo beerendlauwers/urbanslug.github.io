@@ -5,7 +5,7 @@ date: 2014-04-05 14:11:21
 categories: Inspirational
 ---
 
-I was on you tube when I listened to [Brené Brown: Why Your Critics Aren't The Ones Who Count]. You should watch it.
+I was on you tube when I watched [Brené Brown: Why Your Critics Aren't The Ones Who Count]. You should watch it.
 It's all about not minding the haters.
 
 Citizenship in a Republic is the title of a speech given by the former President of the United States, Theodore Roosevelt at the Sorbonne in Paris, France on April 23, 1910.

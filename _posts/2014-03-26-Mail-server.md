@@ -21,7 +21,7 @@ He is passionate about a ton of things.
 
 He gave me **free** hosting.
 
-He's got free hosting for minorities, LGBT, newbies, [haskell-now] members and #not-haskell members. I don't know under which I got him to agree but I thank him.
+He's got free hosting for minorities, LGBT, newbies, [haskell-now] members and #nothaskell members. I don't know under which criteria I qualified but I thank him.
 
 The Stack.
 ----------
@@ -65,7 +65,7 @@ What I know I want:
 - TLS connection to the server.
 - Outgoing mail to be encrypted opportunistically i.e where the remote end supports it.
 - Hopefully encrypt mail while it is on the server.
-- Public key per user and when they get a message, generate a random symmetric key and encrypt their email with it. Then encrypt that symmetric key to the users public key and store that with the encrypted message. This way even I can't decrypt it. Only the user with the secret key can.
+- Key pair per user and when they get a message, generate a random symmetric key and encrypt their email with it. Then encrypt that symmetric key to the users public key and store that with the encrypted message. This way even I can't decrypt it. Only the user with the secret key can.
 
 How to achieve all this I am not yet sure since it might get tricky but not much worry since most of the time I, and any other users if there will be, will be using end to end encyption for my mail.
 
