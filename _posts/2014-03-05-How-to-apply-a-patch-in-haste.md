@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: post_page
 title:  "How to apply a patch in haste."
-date:   2014-03-05 19:14:59
-categories: Patch
 ---
 
 So you really should read more on this but of you are in a hurry.

@@ -1,19 +1,17 @@
 ---
-layout: post
+layout: post_page
 title: "mail  at urbanslug.com."
-date: 2014-03-26 02:39:22
-categories: Mail
 ---
 
-Intro.
------
+### Intro.
+
 
 So uh since I am not allowed by society to wear a tinfoil hat and I believe that the we are under attack I have decided to leave gmail and set up my own mail server. Futile efforts but at least I shall have a fighting chance.
 
 FYI I heard not to wear a tinfoil hat because amplify the waves instead tp wear a wet towel on ones head but you might get a cold or worse.
 
-Hosting.
---------
+### Hosting.
+
 
 I will get hosting from [@computionist] on twitter. I don't know him personally but I know him from #nothaskell on freenode and twitter. A great guy to say the least.
 
@@ -23,8 +21,10 @@ He gave me **free** hosting.
 
 He's got free hosting for minorities, LGBT, newbies, [haskell-now] members and #nothaskell members. I don't know under which criteria I qualified but I thank him.
 
-The Stack.
-----------
+
+
+### The Stack.
+
 
 The plan was for a full FOSS stack and if possible GPL compatibilty and copyleft.
 
@@ -53,8 +53,10 @@ However I was consoled by this statement. `the Free Software Foundation, recomme
 Worth noting that the choice in Cyrus and Postfix was mostly because [@computionist] already uses them and recommended them. I just wanted to make sure I was using FOSS and my choices were well documented plus had communities around them.
 
 
-Security.
----------
+
+
+### Security.
+
 
 Well I will be hosting in the USA so I have to try extra hard to make sure the NSA doesn't listen in. The can break my encryption in 5 years after they have quantum computers strong enough. I don't care.
 
@@ -71,8 +73,9 @@ How to achieve all this I am not yet sure since it might get tricky but not much
 
 
 
-Visual Representation.
-----------------------
+
+### Visual Representation.
+
 
 Below is a high overview diagram of how a mail server works with the IMAP server routing local mail to the IMAP server and foward the rest to another SMTP server. This may change depending on one's configuration of course. I left out the crypto bits.
 

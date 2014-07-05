@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: post_page
 title:  "ThreadScope patch."
-date:   2014-03-05 18:36:59
-categories: Haskell ThreadScope Patch
 ---
 
 So I had some issues installing threadscope earlier.

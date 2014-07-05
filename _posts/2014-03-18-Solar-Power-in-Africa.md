@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: post_page
 title: "Solar Power in Africa."
-date: 2014-03-18 09:24:05
-categories: Energy
 ---
 
 I have an opinion on a topic (renewable energy) I hardly understand but I wish the world would get right, who doesn't?
@@ -53,11 +51,11 @@ See it as a graph of where we are, where Europe is and where we would be if we g
 
 For a line graph see: [graph]
 
-![graph image](/img/Content/Graphs/Comparison\ of\ Africa\ Europe\ power\ consumption.png "Solar power comparison bar graph")
+![graph image](/img/Content/Graphs/Comparison_of_Africa_Europe_power_consumption.png "Solar power comparison bar graph")
 
 *Note that 15% of Europes power consumption is just about on the same line as Africa's power consumption so it's hard to tell apart.*
 
-I couldn't get an image of the graph because I haven't written a code to do so and also because I don't have a wolfram alpha pro account. However if you're reading this clicking on a link won't hurt.
+I couldn't get an image of the graph because I haven't written code to do so and also because I don't have a wolfram alpha pro account. However if you're reading this clicking on a link won't hurt.
 
 I know General Electric too has seen potential and invested in this but what have Africans done in this sector?
 
