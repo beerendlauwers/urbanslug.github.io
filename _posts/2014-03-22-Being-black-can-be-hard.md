@@ -5,15 +5,13 @@ title: "Being black can be hard."
 
 ### Rant.
 
-I wrote this because this was PUBLISHED in a Belgian paper (De Morgen).
-
-
-![Obamas_racist_picture](/img/Content/Racism/Obamas_racist_picture.png "Obamas_racist_picture")
-
-This photograpgh is proof enough that proving your worth while being black no matter what or who you are is not easy.
+I wrote this because of a picture that was PUBLISHED in a Belgian paper (De Morgen).
+The photograpgh is proof enough that proving your worth while being black no matter what or who you are is not easy.
 There are people who believe that being black is abominable.
 Those people will never think you are worth much no matter what you do.
 And there are tons of them in many parts of this world.
+
+![Obamas_racist_picture](/img/Content/Racism/Obamas_racist_picture.png "Obamas_racist_picture")
 
 It affects your chances of success in life, how much you earn, where you can comfortably go or not go e.t.c. So it fucking matters.
 
