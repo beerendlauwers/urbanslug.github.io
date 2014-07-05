@@ -8,7 +8,7 @@ title: "mail  at urbanslug.com."
 
 So uh since I am not allowed by society to wear a tinfoil hat and I believe that the we are under attack I have decided to leave gmail and set up my own mail server. Futile efforts but at least I shall have a fighting chance.
 
-FYI I heard not to wear a tinfoil hat because amplify the waves instead tp wear a wet towel on ones head but you might get a cold or worse.
+FYI I heard not to wear a tinfoil hat because amplify the waves instead wear a wet towel on your head but you might get a cold or worse.
 
 ### Hosting.
 
