@@ -8,7 +8,7 @@ title: "mail  at urbanslug.com."
 
 So uh since I am not allowed by society to wear a tinfoil hat and I believe that the we are under attack I have decided to leave gmail and set up my own mail server. Futile efforts but at least I shall have a fighting chance.
 
-FYI I heard not to wear a tinfoil hat because amplify the waves instead tp wear a wet towel on ones head but you might get a cold or worse.
+FYI I heard not to wear a tinfoil hat because amplify the waves instead wear a wet towel on your head but you might get a cold or worse.
 
 ### Hosting.
 
@@ -20,6 +20,8 @@ He is passionate about a ton of things.
 He gave me **free** hosting.
 
 He's got free hosting for minorities, LGBT, newbies, [haskell-now] members and #nothaskell members. I don't know under which criteria I qualified but I thank him.
+
+
 
 ### The Stack.
 
@@ -51,6 +53,8 @@ However I was consoled by this statement. `the Free Software Foundation, recomme
 Worth noting that the choice in Cyrus and Postfix was mostly because [@computionist] already uses them and recommended them. I just wanted to make sure I was using FOSS and my choices were well documented plus had communities around them.
 
 
+
+
 ### Security.
 
 
@@ -66,6 +70,7 @@ What I know I want:
 - Key pair per user and when they get a message, generate a random symmetric key and encrypt their email with it. Then encrypt that symmetric key to the users public key and store that with the encrypted message. This way even I can't decrypt it. Only the user with the secret key can.
 
 How to achieve all this I am not yet sure since it might get tricky but not much worry since most of the time I, and any other users if there will be, will be using end to end encyption for my mail.
+
 
 
 

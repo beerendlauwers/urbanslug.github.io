@@ -3,8 +3,6 @@ layout: post_page
 title: "mail  at urbanslug.com."
 ---
 
-### Intro.
-
 
 So uh since I am not allowed by society to wear a tinfoil hat and I believe that the we are under attack I have decided to leave gmail and set up my own mail server. Futile efforts but at least I shall have a fighting chance.
 

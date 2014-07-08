@@ -20,28 +20,11 @@ Contents
 // --------------------------------------------------
 
 body{
-    background-color: rgb(134, 165, 76);
+    background-color: $black;
 }
 
 main.container, main.content > .container{
     width:50em;
-}
-
-hr{
-    border-top: 1px solid lighten($grayLight, 20%);
-    border-bottom: none;
-}
-
-::-moz-selection {
-    color: #fff;
-    text-shadow: none;
-    background: #778da8;
-}
-
-::selection {
-    color: #fff;
-    text-shadow: none;
-    background: #778da8;
 }
 
 // 1. a Font
@@ -49,14 +32,21 @@ hr{
 
 
 @font-face {
-  font-family: 'Raleway';
+  font-family: 'Noto Serif';
   font-style: normal;
   font-weight: 400;
-  src: local('Raleway'), url(http://themes.googleusercontent.com/static/fonts/raleway/v6/IczWvq5y_Cwwv_rBjOtT0w.woff) format('woff');
+  src: local('Noto Serif'), local('NotoSerif'), url(http://themes.googleusercontent.com/static/fonts/notoserif/v1/eCpfeMZI7q4jLksXVRWPQxsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
 }
+
 
 // 1. b Extends
 // --------------------------------------------------
+
+
+.center-txt{
+    text-align: center;
+}
+
 
 .a-hover{
         color: $grayDark;
@@ -73,61 +63,52 @@ hr{
 // --------------------------------------------------
 
 .content{
-    background-color: #f9f7f4;
+    background-color: $white;
 
     & > .container{
        min-height: 58em;  
     }
 }
 
-.content {
-
-    h1{
-        font-family: 'Raleway';
-        text-transform: uppercase;
-        font-weight: normal;
-        font-size: 4.1em;  
-        margin-top: 1em;
-        letter-spacing: 0.04em;
-        color: $greenSpotify;
-    }
-
-    .sub-title{
-        font-family: 'Raleway';
-        font-size: 1.8em;
-        margin: 0.8em 0 3em;
-        color: $grayLight;
-    }
+.content h1{
+    font-family: Georgia, "Times New Roman", Times, serif;
+     @extend .center-txt;
+    font-size: 6em;  
+    margin-top: 1em;
+    border-bottom: 1px solid $grayDarker;
+    padding-bottom: 0.6em;
+    letter-spacing: 0.04em;
 }
 
+.top-strip{
+    background-color: $black;
+    height: 1em;    
+}
 
 
 // 3. Entries
 // --------------------------------------------------
 
 .entries{
-
+     @extend .center-txt;
     list-style: none;
+    font-family: 'Noto Serif';
     margin:2em 0 0;
 
     li{
-        border-bottom: 1px solid lighten($grayLight, 20%);
+        //border-bottom: 1px solid $grayLighter;
         margin-bottom: 3em;
-        padding-bottom: 2.2em;
+        padding-top: 1.5em;
     }
 
-    time{
-        font-size: 1.1em;
+    span{
+        text-transform: uppercase;
+        font-size: 0.9em;
         letter-spacing: 0.1em;
-        float: right;
-        margin-top: -1.9em;
-        color: $gray;
     }
 
     h3{
-        font-family: 'Raleway';
-        color: $greenSpotify;
-        font-weight: normal;
+        font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 2em;
         margin-top: 0.2em;
         @extend .a-hover;
@@ -138,10 +119,8 @@ hr{
     }
 
     div{
-        font-family: georgia, times, serif;
-        line-height: 1.6em;
-        font-size: 1.15em;
-        color: $gray;
+        line-height: 1.7em;
+        margin-top: 1.2em;
     }
 }
 
@@ -150,7 +129,7 @@ hr{
 // --------------------------------------------------
 
 .pages{
-
+     @extend .center-txt;
     list-style: none;    
 }
 
@@ -172,52 +151,35 @@ hr{
 // --------------------------------------------------
 
 .home-icon{
-
-     font-size: 2.2em;
-     margin: 1.9em 0 -1.1em 1em;
-     float: left;
-     background-color: $greenSpotify;
-     padding: 0.65em;
-     @include border-radius(2em);
-
+     @extend .center-txt;
+     font-size: 2.5em;
+     margin: 1.5em 0 -1.1em;
      a{
         @extend .a-hover; 
-        color: $white;
      } 
 }
 
 .post{
-
-    width: 40em;
-    float: right;
-    margin-top: -2em; 
-
     h5{
-        margin:0.4em 0 2.5em 0;
+         @extend .center-txt;
+        margin:5em 0 -6em 0;
+        font-family: 'Noto Serif';
+        text-transform: uppercase;
         font-weight: normal;
-        letter-spacing: 0.1em;
-        padding-bottom: 1.1em;
-        border-bottom: 1px solid lighten($grayLight, 20%);
+        letter-spacing: 0.6em;
     }
 
     h2{
-        font-family: 'Raleway';
-        font-weight: normal;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        @extend .center-txt;
         font-size: 5em;
-        padding: 1.1em 0 0.2em;
+        padding: 1.5em 0 0.5em;
         letter-spacing: 0.05em;
-        color: $greenSpotify;
-
-        span{
-            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-        }
     }
 
     section{
-        font-family: georgia,times,serif;
+        font-family: 'Noto Serif';
         line-height: 1.9em;
-        font-size: 1.15em;
-        color: darken($grayLight, 10%);
     }
 }
 
@@ -225,11 +187,11 @@ hr{
 // --------------------------------------------------
 
 footer .container{
+    @extend .center-txt;
+    font-family: 'Noto Serif';
     color: $white;
     padding: 2em 0;
     font-size: 0.8em;
-    text-align: center;
-
     a{
         color: $white;
         text-decoration: underline;

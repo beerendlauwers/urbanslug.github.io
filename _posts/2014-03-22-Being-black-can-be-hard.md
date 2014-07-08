@@ -3,7 +3,6 @@ layout: post_page
 title: "Being black can be hard."
 ---
 
-### Rant.
 
 I wrote this because of a picture that was PUBLISHED in a Belgian paper (De Morgen).
 The photograpgh is proof enough that proving your worth while being black no matter what or who you are is not easy.
