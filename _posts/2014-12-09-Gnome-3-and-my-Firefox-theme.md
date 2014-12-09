@@ -9,7 +9,7 @@ I didn't make this theme (misleading title). This first paragraph is more of a r
 
 ![Firefox Screenshot](/img/Content/Screenshots/Firefox_Screenshot.png "Firefox Screenshot")
   
-I've used the usual ones xfce, KDE, MATE, Cinnamon, a little unity in the past.
+I've used the usual ones xfce, KDE, MATE, Cinnamon, and a little unity in the past.
 
 Then I used xmonad on top of xorg without a Desktop Manager. It wasn't fun. It felt like I was spending too much time writing scripts to do things that I knew makers of DEs have done better and I used the terminal instead of shortcuts a lot. Anyway, I didn't work for me.
 
