@@ -5,7 +5,7 @@ date: 2014-12-08 17:30:24
 categories: Programming, C++
 ---
 
-This post explains a few things I wish I'd found someone to tell me before mostly naming conventions of OOP stuff in C++ which is surprisingly different than it is in other languages. This post also assumes you're familiar with what functions, classes, inheritance, objects and so forth are. If you're taking INF 332 this would be good to read while studying for your exam. You can get a huge and more detailed version on [Wikipedia].
+This post explains a few things I wish I'd found someone to tell me before. Mostly naming conventions of OOP stuff in C++ which is surprisingly different than it is in other languages. This post assumes you're familiar with what functions, classes, inheritance, objects and so forth are. If you're taking INF 332 this would be good to read while studying for your exam. You can get a huge and more detailed version on [Wikipedia].
 
 
 So we'll define a few things we need:
