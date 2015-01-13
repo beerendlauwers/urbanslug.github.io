@@ -5,13 +5,14 @@ date: 2014-12-08 17:30:24
 categories: Programming, C++
 ---
 
-This post explains a few things I wish I'd found someone to tell me before. Mostly naming conventions of OOP stuff in C++ which is surprisingly different than it is in other languages. This post assumes you're familiar with what functions, classes, inheritance, objects and so forth are. If you're taking INF 332 this would be good to read while studying for your exam. You can get a huge and more detailed version on [Wikipedia].
+This post explains a few things I wish I'd found someone to tell me before. Mostly naming conventions of OOP stuff in C++ which is surprisingly different than it is in other languages. This post assumes you're familiar with what functions, classes, inheritance, objects and so forth are. If you're taking INF 332 this would be good to read while studying for your exam. You can get a huge and more detailed version on [Wikibooks].
 
 
 So we'll define a few things we need:
 
 **Data member**: This is basically an attribute. A variable accessible from within the class or global within the class.  
-**Member function**: A function that is within a class. Known as methods in other langauges.  
+**Member function**: A function that is within a class. Known as methods in other langauges.
+**Abstract class**: A class that contains at least one pure virtual function is considered an abstract class.  
 **Getter**: Also called accessor. A function used to access or get the value held by a private data member. These variable names often start with get  
 **Setter**: Also called Modifier. A function used to modify or set the value held by a private data member.  These variable names often start with set.  
 **Struct vs Class**: There are two ways to define a class in C++. Using class and using struct. When using class all that is within the braces is private by default unless otherwise specified. When using struct all that is within the braces is public unless otherwise specified.
@@ -21,7 +22,6 @@ It is good practice to have everything be private first and set to public what n
 **Base class**: A base class is a class that is created with the intention of deriving other classes from it.
 **Child class**: A child class is a class that was derived from another, that will now be the parent class to it.
 **Parent class**: A parent class is the closest class that we derived from to create the one we are referencing as the child class. The one right above in the inheritance heirachy.
-
 ### Access Labels
 
 These are private, public and protected. They are used within classes to set access permissions for the members in that section of the class. They really aren't very interesting so I won't spend too much time on them. You can also specify them when carrying out inheritance.
@@ -39,7 +39,7 @@ There's a [table] on wikipedia explaining how these access labels may change in 
 A constructor is a special member function that is called *whenever* a new instance of a class is created. The compiler calls the  constructor after the new object has been allocated in memory, and converts that "raw" memory into a proper, typed object.
 
 A constructor is used to assign values to the data members that the creator of the class choses. If you don't declare a constructor the compiler will impicitly make one for you.
-y
+
 The constructor is declared much like a normal member function but it will share the name of the class and it has no return value.
 
 The constructor may or may not have arguments. A constructor without arguments is called a `default constructor`, a constructor that takes arguments are `non-default constructors`.
@@ -75,9 +75,9 @@ Notice the constructor has the same name as the class. It returns nothing.
 
 #### Constructor initalization lists
 
-We save by not having to do an assignment, the compiler knows to construct the object with that value in memory
-
 Also called *member initialization lists*. They are used to initialize data members and base classes with non-default constructor.
+
+Why we'd want them: We save by not having to do an assignment, the compiler knows to construct the object with that value in memory.  
 
 The difference between initialization list construction and custom constructor thru assignment is run-time speed. If you have a class with a few large member variables, assignment construction can create a lot of extra overhead
 
@@ -275,3 +275,4 @@ This way anyone deriving from virtualStuff will have to implement/write stuffDer
 [Wikipedia]: https://en.m.wikipedia.org/wiki/Function_overloading
 [Dynamic polymorphism]: https://en.wikibooks.org/wiki/C%2B%2B_Programming/Classes#Dynamic_polymorphism_.28Overrides.29
 [table]: https://en.wikibooks.org/wiki/C%2B%2B_Programming/Classes#Inheritance_.28Derivation.29
+[Wikibooks]: https://en.wikibooks.org/wiki/C%2B%2B_Programming/Classes
