@@ -36,7 +36,7 @@ In a human analogy it's a pronoun the object can use to refer to itself; among p
 
 ### <u>Access Labels</u>
 
-These are private, public and protected. They are used within classes to set access permissions for the members in that section of the class. They really aren't very interesting so I won't spend too much time on them. You can also specify them when carrying out inheritance.
+These are private, public and protected. They are used within classes to set access permissions for the members in that section of the class. They are also used for base classes to specify how you want the base class inherited as shown in the table below.
 
 **public**: This label indicates any members within the 'public' section can be accessed freely anywhere a declared object is in scope.
 
