@@ -1,42 +1,44 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://blog.urbanslug.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: urbanslug
   avatar: avatar.png
   gravatar: # email md5 hash
-  description: "A website with blog posts, and pages." # used by search engines
+  description: "blog.urbanslug.com urbanslug.com urbanslug blog programming computer science" # used by search engines
   
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>Welcome to the urbanslug blog.</p>
      
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p> Have fun. </p>
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type.html">Type Theme</a>
+
+    All work is under the terms of the <a href="http://www.gnu.org/copyleft/fdl.html">GNU Free Documentation License, Version 1.3</a>
+  
   
   # Icons
-  rss: false
-  email_address: # full email address, e.g. "sam@example.com"
+  rss: true
+  email_address: "mwanikibusiness@gmail.com" # full email address, e.g. "sam@example.com"
   behance:
-  bitbucket: 
+  bitbucket: "urbanslug"
   dribbble: 
   facebook: 
   flickr: 
-  github: "rohanchandra/type-theme"
+  github: "urbanslug"
   google_plus: 
   instagram: 
   linkedin:  # full URL
   pinterest: 
   reddit: 
   soundcloud: 
-  stack_exchange:  # full URL
+  stack_exchange: "http://stackoverflow.com/users/1553834/urbanslug"
   steam: 
   tumblr: 
-  twitter: "twitter"
+  twitter: "urbanslug"
   wordpress: 
   youtube: 
   

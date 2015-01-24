@@ -5,8 +5,7 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Posts in this blog mostly comprise of Computer Science, Linux, Programming, Cryptography, Afrocentricism and African development.
 
-Head over to the theme's Github repo for much more information about Type Theme or to install this theme for your very own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+I insist on secrecy and privacy so please if you are going to send me mail encrypt it. My public key id is: 0x97CCCF20636D31D9  
+I am a Kenyan student at [Moi University](http://mu.ac.ke) studying BSc. Informatics which is a cool word for an intersection between CS and Information Science.
