@@ -5,7 +5,7 @@ date: 2014-12-08 17:30:24
 categories: Programming C++ OOP
 ---
 
-This post explains a few things I wish I'd found someone to tell me before. Mostly naming conventions of OOP stuff in C++ which is surprisingly different than it is in other languages. This post assumes you're familiar with what functions, classes, inheritance, objects and so forth are. If you're taking INF 332 this would be good to read while studying for your exam. You can get a huge and more detailed version on [Wikibooks].
+These are more like private paraphrased notes. If you wanted to really learn these things a C++ text book or [this wikibooks article] would be better. These things can't be learned in a hurry. Naming conventions are surprisingly different in C++ than they are in other languages. This post assumes you're familiar with what functions, classes, inheritance, objects and so forth are. If you're taking [INF 332] this would be good to read while studying for your exam.
 
 The method through which I will do this is by using a lot of working example code so that it becomes easy for you to follow along and play with the code yourself.
 
@@ -24,11 +24,9 @@ So we'll define a few things we need:
 
 **Setter**: Also called Modifier. A function used to modify or set the value held by a private data member.  These variable names often start with set.  
 
-**Struct vs Class**: There are two ways to define a class in C++. Using class and using struct. When using class all that is within the braces is private by default unless otherwise specified. When using struct all that is within the braces is public unless otherwise specified.
+**Struct vs Class**: There are two ways to define a class in C++. Using class and using struct. When using class all that is within the braces is private by default unless otherwise specified. When using struct all that is within the braces is public unless otherwise specified.  
 
-It is good practice to have everything be private first and set to public what needs to be as one moves on instead of vice versa. This is why on many projects one will find class used instead of struct.
-
-**this** It's a special pointer in C++ used to refer to the current object at the time. To use it you often have to use `this ->` or `(this*)` syntax to call member functions of the object itself.  
+**this** It's a special pointer in C++ used to refer to the current object at the time. To use it you often have to use `this -> memFunction()` or `(*this).memFunction()` syntax to call member functions of the object itself.  
 In a human analogy it's a pronoun the object can use to refer to itself; among people this would be "me".
 
 **Base class**: A base class is a class that is created with the intention of deriving other classes from it.  
@@ -71,10 +69,11 @@ A constructor is a special member function that is called *whenever* a new insta
 
 A constructor is used to assign values to the data members that the creator of the class choses. If you don't declare a constructor the compiler will impicitly make one for you.
 
-The constructor is declared much like a normal member function but:
-*it doesn't have a type annotation meaning it doesn't start with the name of a type such as int or string.
-* it has to have the same name as the class.
-* it has no return value (Meaning it also has no return statement).
+The constructor is declared much like a normal member function but it:
+
+* Doesn't have a type annotation meaning it doesn't start with the name of a type such as int or string.
+* Has to have the same name as the class.
+* Has no return value (Meaning it also has no return statement).
 
 The constructor may or may not have arguments. A constructor that does not take arguments is called a **default constructor**, while a constructor that takes argument(s) is a **non-default constructor**.
 
@@ -203,7 +202,14 @@ However, if we declare b as a pointer or a reference of class A, the compiler co
     
 ### Virtual Member Funtions  
 
-Virtual member functions are member functions, that can be overridden in any class derived from the one where they were declared. Sort of like you can "overwrite" the funtion in the derived class. This is done by placing the keyword virtual before the method declaration. Like *virtual memberFunc () { /\* Member function code\*/}*
+Virtual member functions are member functions, that can be overridden in any class derived from the one where they were declared. Sort of like you can "overwrite" the funtion in the derived class. This is done by placing the keyword virtual before the method declaration. For example
+
+{% highlight c++ %}
+virtual memberFunc() {
+    /*Member function code*/
+}
+{% endhighlight %}
+
 The point is that when the compiler has to decide between applying static binding or dynamic binding it will apply dynamic binding. Otherwise, static binding will be applied.
 If the base class function is virtual all subclass overrides of it will also be virtual. However it is still good practice to add the virtual keyword before function definitions in subclasses, clarity and all.
 
@@ -218,8 +224,11 @@ In this case assume we were simulating marketing companies in the world so. The 
 Sometimes we don't want to provide an implementation of our function at all, but want to **force** people sub-classing our class to provide an implementation on their own.
 
 To create a pure virtual function:
+
+
 * Include the keyword "virtual" before the "void" type annotation for the pure virtual member function.
 * Don't write the function code (not even the braces {} however, just add '= 0' after function declaration.
+
 For example: *virtual void pureFunc() = 0;*
 
 In the code below the pure virtual function "divorce ()" makes "person" an abstact class.
@@ -240,5 +249,7 @@ Hail Stallman and may the FOSS be with you.
 [Dynamic polymorphism]: https://en.wikibooks.org/wiki/C%2B%2B_Programming/Classes#Dynamic_polymorphism_.28Overrides.29
 [table]: https://en.wikibooks.org/wiki/C%2B%2B_Programming/Classes#Inheritance_.28Derivation.29
 [Wikibooks]: https://en.wikibooks.org/wiki/C%2B%2B_Programming/Classes
+[this wikibooks article]: https://en.wikibooks.org/wiki/C%2B%2B_Programming/Classes
 [RAII idiom]: https://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization
 [wikibooks page on memory management in C++]: https://en.wikibooks.org/wiki/C%2B%2B_Programming/Memory_Management
+[INF 332]: http://www.mu.ac.ke/informationscience/index.php/academic-prorammes/bachelor-programmes/bachelor-of-science-in-informatics#second-semester
