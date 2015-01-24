@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Back to Chess"
+title: "Back to chess."
 date: 2014-12-08 16:33:15
 categories: Chess
 feature-img: "img/Content/Chess/Chess.png"
