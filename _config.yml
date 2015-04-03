@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://urbanslug.github.io" # the base hostname & protocol for your site
+url: "http://blog.urbanslug.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -8,7 +8,7 @@ theme:
   title: urbanslug
   avatar: avatar.png
   gravatar: # email md5 hash
-  description: "blog.urbanslug.com urbanslug.com urbanslug blog programming computer science" # used by search engines
+  description: "blog.urbanslug.com urbanslug.com urbanslug blog programming haskell emacs computer science" # used by search engines
   
   # Header and footer text
   header_text: >
