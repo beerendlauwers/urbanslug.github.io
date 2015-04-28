@@ -53,7 +53,7 @@ The general pattern of interation with the compiler is as follows:
 
 **Update phase**: We don't directly mutate the files since we don't want to end up in a situation where ide-backend has a different state of files and data while our client has a different state of the files and data. However, we describle the changes we want to make to the files and let ide-backend effect them. That is, give ide-backend, via IdeSession, the new state of the files.  
 **Compile phase**: We apply the relevant updates and invoke the compiler. It incrementally compiles some modules. This may take a while therefore we want progress information.  
-**Query phase**: After compilation we collect info related to the compilation: source errors, list of successfully loaded modules et cetera.
+**Query phase**: After compilation we collect info related to the compilation: source errors, list of successfully loaded modules et cetera.  
 **Run phase**: Regardless of compilation results; we may want to run code from a certain module, interact with the code, interrupt its execution.
 
 In haskell we follow types so naturally there are types associated with each of these phases.
@@ -106,9 +106,10 @@ The persistent state regards:
 
 Internally there is a lot of cached and transitory state. In memory or on disk; none of these persist in the case of a fatal error; for example, they are wiped before shutdown and only the source and data files persit in case of a power failure.
 
-It should be possible to drop all transitory state and recover (somewhat) as long as the original session value is available. The `restartSession` function serves this purpose.
+It should be possible to drop all transitory state and recover (somewhat) as long as the original session value is available. The [`restartSession`] function serves this purpose.
 
 [ide-backend]: http://hackage.haskell.org/package/ide-backend-0.9.0.7
 [ide-backend blog post]: https://www.fpcomplete.com/blog/2015/03/announce-ide-backend
 [FP complete]: https://www.fpcomplete.com/business/about/about-us/
 [official IdeSession documentation]: http://hackage.haskell.org/package/ide-backend-0.9.0.7/docs/IdeSession.html
+[`restartSession`]: http://hackage.haskell.org/package/ide-backend-0.9.0.7/docs/IdeSession.html#v:restartSession
