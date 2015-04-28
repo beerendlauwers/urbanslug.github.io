@@ -85,12 +85,12 @@ The caller should be able to:
 
 Purity:
 
-* The property of a function where it always gives the same output given the same input.
+* The property of a function to always gives the same output given the same input.
 * The property of a function not to have side effects.
 
 In this case we want to regard the compiler as a pure function disregarding the side effects part of purity because we have a lot of IO going on here.  
 It should always be the case that we can throw away all the compilation results and recover them just from the file state and user parameters.  
-*In case of warnings:* Traditionally compilers show warnings for the modules they compile skipping warning for modules they didn't have to recompile. This however doesn't match the pure function principle of same results for the same parameters. So IdeSession provides purity in cases such as this.
+*In case of warnings:* Traditionally compilers show warnings for the modules they compile skipping warning for modules they didn't have to recompile. This however doesn't match the pure function principle of same results for the same parameters. So IdeSession provides purity in cases such as these.
 
 > So we try to maintain the compiler as:  
  compiler (modules, args, env) -> (object code, compiler warnings, errors....)
