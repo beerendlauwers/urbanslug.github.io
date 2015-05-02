@@ -3,7 +3,6 @@ layout: post
 title: Emacs setup for haskell.
 date: 2015-04-13 03:15:33
 Categories: Emacs, Haskell
-feature-img: "img/Content/Snippet/haskell-emacs.png"
 ---
 
 This post assumes that you have a little experience with emacs and maybe some experience writing haskell.  
