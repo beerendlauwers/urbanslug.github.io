@@ -42,11 +42,11 @@ You can chose to install them all now or install them as we go on and as you see
 
 * [structured-haskell-mode](https://github.com/chrisdone/structured-haskell-mode)
 * [hasktags](http://hackage.haskell.org/package/hasktags)
-* [flycheck](http://www.flycheck.org/)
-* [haskell-flycheck](https://github.com/chrisdone/haskell-flycheck)
 
 #### Emacs packages to install  
 
+* [flycheck](http://www.flycheck.org/)
+* [haskell-flycheck](https://github.com/chrisdone/haskell-flycheck)
 * [haskell-mode](https://github.com/haskell/haskell-mode/wiki)
 * [rainbow-delimiters](www.emacswiki.org/emacs/RainbowDelimiters)
 * shm (the emacs package isn't called structured-haskell-mode but shm)
