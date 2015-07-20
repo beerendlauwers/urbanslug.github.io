@@ -77,5 +77,5 @@ Currently yesod-devel will configure your web application with the following fla
 
 I assume that these arguments are self explanatory.
 
-[WAI]: www.yesodweb.com/book/web-application-interface
+[WAI]: https://www.yesodweb.com/book/web-application-interface
 [`warp`]: http://hackage.haskell.org/package/warp

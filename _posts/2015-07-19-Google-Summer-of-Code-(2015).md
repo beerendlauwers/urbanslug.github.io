@@ -40,12 +40,12 @@ The objectives of yesod-devel are:
   * Perform reverse proxying for the web application
 
 [haskell.org]: https://www.haskell.org
-[WAI]: www.yesodweb.com/book/web-application-interface
+[WAI]: https://www.yesodweb.com/book/web-application-interface
 [Michael Snoyman]: https://github.com/snoyberg
 [Michael Sloan]: https://github.com/mgsloan
 [Daniel Beskin]: https://github.com/ncreep
 [FP Complete github organisation]: https://github.com/fpco
 [GHC API]: https://wiki.haskell.org/GHC/As_a_library
-[ide-backend]: hackage.haskell.org/package/ide-backend-0.9.0.2
+[ide-backend]: https://hackage.haskell.org/package/ide-backend-0.9.0.2
 [`defaultSessionConfig`]: http://hackage.haskell.org/package/ide-backend-0.9.0.2/docs/IdeSession.html#v:defaultSessionConfig
 [this commit onwards on github]: https://github.com/fpco/ide-backend/tree/19561d9ff5f496d6556f38992bc8d08896d54091
