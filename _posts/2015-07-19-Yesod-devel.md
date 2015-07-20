@@ -6,7 +6,7 @@ categories: Programming GSoC Yesod Yesod-Devel
 ---
 
 A new development server is upon us. It's name is yesod-devel.  
-This post is about yesod-devel which is my Google Summer of Code project and not the current yesod-devel that is part of the yesod framework.
+This post is about yesod-devel which is my Google Summer of Code project and not the current yesod-devel that is part of the yesod framework. It's not yet available and is still under development, meaning a lot of things in this post may change.
 
 yesod-devel is a development server for haskell web applications that are [WAI] compliant.
 
