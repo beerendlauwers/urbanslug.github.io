@@ -57,23 +57,23 @@ Currently yesod-devel takes no command line arguments.
 
 However, in the plans are the following.
 
-  * --configure-with <config flags to cabal configure>
-  * --no-reverse-proxying
-  * --show-iface fileName.hs
+  * \--configure-with <config flags to cabal configure>
+  * \--no-reverse-proxying
+  * \--show-iface fileName.hs
 
 You should be fine without passing any of these arguments unless you have a special reason to.
 
 Currently yesod-devel will configure your web application with the following flags to cabal.
   
-  * -flibrary-only
-  * --disable-tests"
-  * --disable-benchmarks"
-  * -fdevel
-  * --disable-library-profiling
-  * --with-ld=yesod-ld-wrapper
-  * --with-ghc=yesod-ghc-wrapper
-  * --with-ar=yesod-ar-wrapper
-  * --with-hc-pkg=ghc-pkg
+  * \-flibrary-only
+  * \--disable-tests"
+  * \--disable-benchmarks"
+  * \-fdevel
+  * \--disable-library-profiling
+  * \--with-ld=yesod-ld-wrapper
+  * \--with-ghc=yesod-ghc-wrapper
+  * \--with-ar=yesod-ar-wrapper
+  * \--with-hc-pkg=ghc-pkg
 
 I assume that these arguments are self explanatory.
 
