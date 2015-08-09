@@ -78,10 +78,10 @@ The interpretation of affectionate detachment is: **I love you, I care for you b
 Sometimes you may be afraid that if you dissociate and chase your dreams and fail you will look like/be a fool.
 If you care about other peoples' opinions so much that it gets in the way of your ability to create then you don't want to create and achieve your goals no matter what.  
 **STOP!!!**  
-Don't be afraid to disociate and be a psychopath if you truly know what you want and truly want it. So if you don't want to party all day every day. Screw them. Do your thing. Go crazy.
+Don't be afraid to dissociate and be a psychopath if you truly know what you want and truly want it. So if you don't want to party all day every day. Screw them. Do your thing. Go crazy.
 
 Simply put, people have a drafting or gravitational effect.
-Who you spend time with affects who you are, what you do and achieve; even worse it affects what you *believe* you can achieve.
+Who you spend time with affects who you are, what you do and achieve. Even worse, it affects what you *believe* you can achieve.
 You have to realise that this person is harmful or this person is negative or too derailing and take appropriate action.
 If they are your real friends, if they really care then they'd want to see you chase your dreams, no judgement.
 If they don't understand that this is something you must do; move on.  
