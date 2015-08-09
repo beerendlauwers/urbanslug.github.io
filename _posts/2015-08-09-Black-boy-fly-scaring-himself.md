@@ -71,8 +71,9 @@ This means easily making decisions that others might not like and even *enjoying
 Here's the ugly part, sometimes you have to dissociate with people who you feel are holding you back from achieving what you want.
 This is scary because they can be your friends, your family. You know what yours is. Dan Martell talks about it in [friendventory].
 You have to take [friendventory].
-Dan Martell's friend has what he calls [affectionate detachment] (though Hinduism describes it differently.)
-His interpretation of affectionate detachment is: **I love you, I care for you but I can't be around you all the time because it's bad for me.** Plain and simple.
+
+Dan Martell's friend [Dandapani] (a hindu priest) talks about [affectionate detachment] (a Hindu *thing*)
+The interpretation of affectionate detachment is: **I love you, I care for you but I can't be around you all the time for the sake of us both.** Plain and simple.
 
 Sometimes you may be afraid that if you dissociate and chase your dreams and fail you will look like/be a fool.
 If you care about other peoples' opinions so much that it gets in the way of your ability to create then you don't want to create and achieve your goals no matter what.  
@@ -100,7 +101,7 @@ It's about seeing peers (normal dudes like him) chase their dreams and achieve g
 He saw normal dudes scare themselves and build companies that went on to billion dollar valuations.
 Thinking big is what he learned from moving to San Fransisco and that's what thinking big is.
 
-Conversations drive thoughts, thoughts drive actions and actions drive your life's direction.
+Conversations drive thoughts. Thoughts shape actions. If the quality of your conversations are mediocre at best, then your actions will match that.
 
 Friends set your scale for what's reasonable.
 You think you can be successful but only so much more successful than my most successful friend or the most successful person you know.
@@ -120,3 +121,4 @@ You can get what you want if you want it bad enough because you'll do **WHATEVER
 [affectionate detachment]: http://western-hindu.org/2009/03/23/affectionate-detachment/
 [friendventory]: http://www.danmartell.com/friendventory/
 [drafting effect]: https://en.wikipedia.org/wiki/Drafting_(aerodynamics)
+[Dandapani]: http://dandapani.org/
