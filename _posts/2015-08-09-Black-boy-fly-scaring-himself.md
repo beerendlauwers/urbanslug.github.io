@@ -8,13 +8,13 @@ feature-img: "img/Content/Inspiration/black-boy-fly.png"
 
 This post is inspired by a rap song Black Boy Fly by Kendrick Lamar and a podcast episode from [Thoughtbot].
 I hate hip hop because I think it's the most hypocritical, bastardised and commercialised genre of music ever with little or no art or true emotion in it.
-In short hiphop is consumerism in a music genre. Pretending to not be just that.
+In short hip hop is consumerism in a music genre. Pretending to not be just that.
 However, this song resonated with me. Here are the lyrics.
 
 <script src="http://ideone.com/e.js/HThTJd" type="text/javascript" ></script>
 
 [Thoughtbot] have a podcast called giant robots smashing into other giant robots. [Episode 118] also resonated with me.
-I was listening to this very episode on the night that I woke up and signed up for GSoC. I scared myself.
+I was listening to this very episode on the night that I woke up and signed up for the Google Summer of Code. I scared myself.
 
 ### Creating
 
@@ -31,7 +31,7 @@ There's a common saying that you are the average of the 5 people you spend most 
 
 Instrinsic motivation can easily be ruined by your environment which affects your mood and so forth.
 I'll come back to this later.
-I am not a believer of the supernatural but I do believe in positive energy, positive thinking and admire the buddhist way of life.
+I am not a believer of the supernatural but I do believe in positive energy, positive thinking and admire the Buddhist way of life.
 Plus I meditate.
 
 Another reason your actions/work may be mediocre is that you get better at what you put most of your time into.
@@ -64,11 +64,11 @@ This has to do with environment and the people around you. I said I'd get back t
 
 To truly get anywhere, for the black boy to fly, you have to be totally obsessive with what you love; no distraction.
 **YOU HAVE TO BE OBSESSIVE.** A work life balance is a myth, plain and simple.
-Surveys on execs of fortune 500 companies have showed that they exhibit psychopathic charachteristics.
+Surveys on executives of Fortune 500 companies have showed that they exhibit psychopathic charachteristics.
 Here is an article on [forbes] and on [nytimes] on this.
 This means easily making decisions that others might not like and even *enjoying* it. 
 
-Here's the ugly part, sometimes you have to dissociate with people who you feel are holding you back from achieving what you want.
+Here's the ugly part: sometimes you have to dissociate with people who you feel are holding you back from achieving what you want.
 This is scary because they can be your friends, your family. You know what yours is. Dan Martell talks about it in [friendventory].
 You have to take [friendventory].
 
