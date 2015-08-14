@@ -11,7 +11,7 @@ Its name changed from yesod-devel (the haskell reddit community suggested this).
 You can find it at: [https://github.com/urbanslug/wai-devel]
 
 ## What wai-devel expects from your application
-Since wai-devel is very losely coupled to your application it expects mainly two things from your application:
+Since wai-devel is very loosely coupled to your application it expects mainly two things from your application:
 a **host:port** pair and a function, **Application.develMain**.
 
 Due to it's dependence on ide-backend it also expects you to set the environment variable `GHC_PACKAGE_PATH`.
@@ -28,7 +28,7 @@ Better yet, the application itself should set the environment variables as in th
 
 wai-devel looks for a function Application.develMain
 I have a [fork of yesod], that builds a yesod binary which
-generetes a scaffold with this function implemented.
+generates a scaffold with this function implemented.
 I recommend using it to generate the scaffold with which to try out wai-devel with.
 
 The specifics of how to set the port and host within yesod applications will obviously change.
@@ -92,7 +92,7 @@ including your test directory. This leads to a world of hurt because the test/ d
 *Please report an issue if you would like any file ignored during builds.*
 
 # Moved to stack
-Since the haskell community has moved in this direction so has wai-devel.  
+Since the Haskell community has moved in this direction, so has wai-devel.  
 wai-devel only depends on cabal in that stack and ide-backend depend on Cabal the library.
 Otherwise, the cabal binary is not used and hasn't been tested to work with wai-devel.
 
@@ -103,7 +103,7 @@ Currently wai-devel is built and tested against:
 * GHC-7.10
 
 
-## Reagrding file watching
+## Regarding file watching
 wai-devel watches for file changes on files with the following extensions:
 
 * hamlet
